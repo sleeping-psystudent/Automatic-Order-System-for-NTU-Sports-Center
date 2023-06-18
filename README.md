@@ -8,7 +8,7 @@ First of all, you have to go to [臺大綜合體育館](https://ntupesc.ntu.edu.
 
 After making sure the court is available, you can click `main.bat` to start. You will see two cmd windows opened, and then there should be a page like the following picture appearing.
 ![](front_page.jpg)
-
+ 
 After you finish the form and click the `預約` button, the only thing you have to do is to wait.
 ## Acknowledgments
 The accuracy of the CNN model we trained is about 0.906, so you will fail to order the court by using it sometimes.
